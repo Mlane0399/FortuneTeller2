@@ -1,0 +1,8 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FortuneTellerPortfolio\FortuneTellerPortfolio\bin\Debug\FortuneTellerPortfolio.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FortuneTellerPortfolio\FortuneTellerPortfolio\bin\Debug\FortuneTellerPortfolio.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FortuneTellerPortfolio\FortuneTellerPortfolio\bin\Debug\FortuneTellerPortfolio.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FortuneTellerPortfolio\FortuneTellerPortfolio\obj\Debug\FortuneTellerPortfolio.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FortuneTellerPortfolio\FortuneTellerPortfolio\obj\Debug\FortuneTellerPortfolio.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\GitHub Projects\FortuneTellerPortfolio\FortuneTellerPortfolio\bin\Debug\FortuneTellerPortfolio.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\GitHub Projects\FortuneTellerPortfolio\FortuneTellerPortfolio\obj\Debug\FortuneTellerPortfolio.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\GitHub Projects\FortuneTellerPortfolio\FortuneTellerPortfolio\obj\Debug\FortuneTellerPortfolio.pdb
